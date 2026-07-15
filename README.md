@@ -12,15 +12,10 @@ CineStream Next is a modern movie discovery web application built with **Next.js
 
 ## 📸 Preview
 
-> Add screenshots of your application here.
-
-| Home Page | Movie Details |
-<img width="1263" height="903" alt="Screenshot 2026-07-15 172120" src="https://github.com/user-attachments/assets/a1c009d5-baaa-4f87-8e04-360b5d148f99" /> | <img width="1901" height="877" alt="Screenshot 2026-07-15 172532" src="https://github.com/user-attachments/assets/f9906431-b8fe-4304-8d75-ae5876b28287" />
-|-----------|---------------|---------|-----------|
-
-| Search | Favorites |
-|-----------|---------------|---------|-----------|
-
+<img width="1263" height="903" alt="Screenshot 2026-07-15 172120" src="https://github.com/user-attachments/assets/a1c009d5-baaa-4f87-8e04-360b5d148f99" /> 
+<img width="1901" height="877" alt="Screenshot 2026-07-15 172532" src="https://github.com/user-attachments/assets/f9906431-b8fe-4304-8d75-ae5876b28287" />
+<img width="1235" height="897" alt="Screenshot 2026-07-15 172256" src="https://github.com/user-attachments/assets/1b083692-7015-4aee-b8fa-078f9a01550c" />
+<img width="1291" height="887" alt="Screenshot 2026-07-15 172155" src="https://github.com/user-attachments/assets/2d3e9a7e-66a6-49e6-a2b8-c50df9ebf9ed" />
 
 ---
 
